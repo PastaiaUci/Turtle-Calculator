@@ -1,16 +1,19 @@
-# flutter_app
+# Turtle-Calculator
 
-A new Flutter application.
+## Description
+A calculator for the fat turtles :(
 
-## Getting Started
+### A short preview for the app 
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+<img src="1.jpeg" width="200" height="400">
+<br/>
+<br/>
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+<img src="2.jpeg" width="200" height="400">
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<br/>
+<br/>
+
+
+<img src="3.jpeg" width="200" height="400">
